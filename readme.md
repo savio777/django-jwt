@@ -7,6 +7,7 @@
 - `cd backend && python manage.py startapp api`
 - `python3 manage.py makemigrations`
 - `python3 manage.py migrate`
+- `python3 manage.py runserver`
 
 
 [source](https://www.youtube.com/watch?v=c-QsfbznSXI)
