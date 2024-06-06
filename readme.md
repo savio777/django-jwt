@@ -10,4 +10,4 @@
 - `python3 manage.py runserver`
 
 
-[source](https://www.youtube.com/watch?v=c-QsfbznSXI)
+[source (45:13 / 2:22:02)](https://www.youtube.com/watch?v=c-QsfbznSXI)
